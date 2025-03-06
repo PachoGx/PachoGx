@@ -3,7 +3,6 @@
 
 A great emerging Developer 🖥️
 
-Learning Python in a professional way
 
 
 
